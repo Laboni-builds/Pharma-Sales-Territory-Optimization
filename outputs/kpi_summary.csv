@@ -1,0 +1,6 @@
+KPI,Value
+Workload CV (current → optimized),0.229 → 0.095
+CV reduction vs. current state,59%
+Travel cost premium vs. greedy baseline,5.2%
+Monte Carlo breach rate,26%
+Illustrative incremental value per period,"~2,385 currency units (ILLUSTRATIVE — replace with client elasticity)"
